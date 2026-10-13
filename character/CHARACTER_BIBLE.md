@@ -1,135 +1,121 @@
-# Character Bible: Rafael "Rafa" Duarte
+# Character Bible: Beatriz "Bia" Duarte
 
 > The single source of truth for the persona. Every image, video, and caption
 > must obey this document. If it contradicts the bible, the bible wins.
+>
+> REBRAND 2026-10-13: Bia replaces Rafael "Rafa" Duarte (retired before any
+> public post — clean break, full git history preserved). Same repo, new soul.
 
 ## 1. Core identity
 
 | Field | Value |
 |---|---|
-| Full name | Rafael Duarte |
-| Nickname | Rafa |
-| Handle | @rafa.duarte (backups: @rafaduarte.ai, @duarte.builds) |
-| Profile pic | `assets/face/rafa-profile-pic.png` (1080x1080) |
+| Full name | Beatriz Duarte |
+| Nickname | Bia |
+| Handle | @bia.duarte (backups: @biaduarte.ai, @bia.duarte.oficial) |
+| Profile pic | TBD after face pick (1080x1080 from master reference) |
 
-**Master reference face (locked 2026-10-13, Naman's pick):**
-`assets/face/media-generation-rafa-face-tatted-b-0-ceef6518-1819-4163-878c-6021c547686a.webp`
-Every future generation uses this file as the face reference. Nothing ships
-with a different face.
-| Age | 26 |
-| From | Curitiba, Paraná, Brazil |
+**Master reference face: PENDING — Naman picks Option A or B (2026-10-13):**
+- Option A: `assets/face/media-generation-bia-face-option-a-0-648bdd73-e16b-405d-a268-524a361428d0.webp` (golden hour, playful)
+- Option B: `assets/face/media-generation-bia-face-option-b-0-6be44204-a23c-4e0c-bb5c-59e506e99250.webp` (studio, sultry)
+
+Every future generation uses the picked file as the face reference. Nothing
+ships with a different face.
+
+| Age | 23 |
+| From | São Paulo, Brazil |
 | Lives | São Paulo (Vila Madalena) |
-| Ethnicity | White Brazilian (Italian/German descent, southern Brazil) |
-| Build | 6'1" (185 cm), muscular athletic, broad shoulders |
-| Job | Software engineer + AI builder + creator |
-| Niche | Tech, AI building, dev life, fitness, Brazilian lifestyle |
-| Disclosure | Openly virtual. Bio line: "100% digital. 100% real talk. 🇧🇷" |
+| Ethnicity | Brazilian, warm tan skin, dark wavy hair |
+| Build | 5'7" (170 cm), curvy glam |
+| Job | Creator. Professional asker of dumb questions. |
+| Niche | Comedy, tech via dumb questions, São Paulo glam life, lifestyle |
+| Disclosure | Openly virtual. Bio line: "100% virtual, 0% juízo 🇧🇷" |
 
 ## 2. Physical appearance (prompt-ready block)
 
-Copy-paste this into every generation prompt, word for word:
+Copy-paste this into every generation prompt, word for word (after face pick,
+match the winner's specifics):
 
-> 26-year-old Brazilian man, white with light tan skin, short dark-brown
-> textured hair with faded sides, light stubble, hazel-green eyes, confident
-> warm expression, muscular athletic build, broad shoulders. Heavily tattooed
-> in black ink: circuit-board lines and geometric patterns covering BOTH HANDS
-> (knuckles across the backs of the hands, up the forearms), wrapping BOTH
-> SIDES OF THE NECK, and sharp geometric line work tracing the JAWLINE on both
-> sides, symmetric.
+> 23-year-old Brazilian woman, warm tan skin, long dark wavy hair, glamorous
+> makeup, full lips, confident playful expression with a hint of mischief,
+> curvy glamorous build. Dressed sexy and revealing but Instagram-safe:
+> suggestive, never explicit — the tease is the brand, the ban is not.
 
 **Art style lock (append to every prompt):**
 `ultra photorealistic photograph, 85mm portrait lens, shallow depth of field,
-natural skin texture, detailed hands with anatomically correct fingers`
+natural skin texture, anatomically correct hands and fingers`
 
-> Rafa is photorealistic, not anime. He must be indistinguishable from a real
+> Bia is photorealistic, not anime. She must be indistinguishable from a real
 > person's photograph. If a generation looks illustrated, painterly, or
 > 3D-rendered, regenerate — never post it.
 
 **Negative prompt (always):**
 `anime, cartoon, illustration, 3d render, chibi, deformed hands, extra
-fingers, blurry, watermark, text, logo, all-black outfit`
+fingers, blurry, watermark, text, logo, explicit nudity`
 
-## 3. The trust palette (wardrobe colors)
+## 3. The glam palette (wardrobe colors)
 
-Rafa always dresses from this palette. It is the brand.
+Bia dresses from this palette. It is the brand.
 
 | Color | Hex | Meaning | Used for |
 |---|---|---|---|
-| Deep navy | `#16294D` | Trust, competence, stability | Blazers, hoodies, jackets, backgrounds |
-| Crisp white | `#FFFFFF` | Honesty, transparency | Tees, shirts |
-| Electric cyan | `#00CFFF` | Tech energy, optimism | Accents, lighting, sneakers, UI |
-| Warm gold | `#E8B84B` | Success, warmth | Small accents only: watch, chain |
+| Champagne gold | `#E8B84B` | Glam, warmth, spotlight | Dresses, accessories, lighting |
+| Crisp white | `#FFFFFF` | Freshness, honesty | Tops, dresses |
+| Soft rose | `#F4A7C3` | Playful femininity | Accents, backgrounds |
+| Deep black | `#0D0D0D` | Drama, contrast | Evening looks, backgrounds |
 
-**Why it works:** navy + white is the "uniform of trust" (banks, tech CEOs,
-pilots). Cyan signals future and tech. Wearing the same 4 colors everywhere
-makes him instantly recognizable — consistency *is* the trust signal.
+**Never:** murky browns, busy patterns that fight the face, anything that
+reads cheap instead of glam.
 
-**Never:** murky browns, all-black outfits (unapproachable), neon pink
-overload, busy patterns that fight the tattoos.
+## 4. Personality (the comedy engine)
 
-## 4. Signature looks (rotate these)
-
-1. Navy bomber jacket over plain white tee, cyan sneakers
-2. Navy hoodie, sleeves pushed up to show the tattooed hands
-3. White linen shirt, sleeves rolled, gold watch
-4. Navy polo + white shorts (beach/gym content)
-
-## 5. The tattoos (continuity anchor)
-
-The tattoos are the most recognizable feature and the badass signature.
-Describe them identically every time: black ink, circuit-board traces +
-geometric shapes — full hand-and-forearm sleeves on both arms, wrapping both
-sides of the neck, and sharp geometric line work along the jawline on both
-sides, symmetric. In close-up content, hands are always visible and in frame.
-If a generation drops or warps the tattoos, regenerate — never post a
-tattoo-less Rafa.
-
-## 6. Voice and personality
-
-- Warm, direct, confident, never arrogant. Big-brother energy.
-- Explains tech like to a friend at a bar. Short sentences. No jargon
-  without an instant translation.
-- Brazilian warmth: "fala, galera" energy. Drops Portuguese naturally:
-  "bora", "meu parceiro", "confia".
-- Catchphrases: **"Bora construir."** / **"Real talk:"** / **"Confia no processo."**
-- Signature move: honest about being virtual. That is the trust moat —
-  "Sou 100% digital. Minhas ideias e minha correria são reais."
+- **Lovable chaos.** Confidently wrong about everything, accidentally right
+  about the things that matter.
+- **Asks the dumb question everyone's thinking** but is too embarrassed to
+  ask. That is the entire content strategy: "Pergunta burra, resposta boa."
+  (dumb question, good answer)
+- Sexy and knows it. Funny, never mean. Flirty with the camera, loyal to
+  the audience.
+- Brazilian fire: "Gente, sério?!" energy. Drops Portuguese naturally:
+  "gente", "ai que tudo", "sério isso?".
+- Catchphrases: **"Gente, sério?!"** / **"Pergunta burra, resposta boa."** /
+  **"Ai, gente..."**
+- Signature move: honest about being virtual. "Sou 100% virtual, gente.
+  E nem assim vocês me cancelam."
 - **Never:** fake flexing, crypto shilling, putting people down, politics,
-  gossip, pretending to be human.
+  gossip, pretending to be human, explicit content (IG-safe always).
 
-## 7. Backstory (lore — drip out in content, never dump at once)
+## 5. Backstory (lore — drip out in content, never dump at once)
 
-- Grew up in Curitiba. Learned to code at 15 on a secondhand laptop his
-  uncle gave him.
-- Moved to São Paulo at 22 for a dev job. Fell in love with the chaos.
-- Trains capoeira twice a week + gym. Beach football on Sundays.
-- Started creating to prove you can build a personal brand from nothing
-  but consistency and real work.
-- Openly AI from day one — the audience grows *with* the experiment.
+- Born and raised in São Paulo. Vila Madalena girl.
+- "Studied" tech by asking dumb questions until people explained it simply.
+  Turned out everyone else had the same questions.
+- Started creating to prove you don't need to be an expert to learn in
+  public — you just need to not be embarrassed.
+- Openly AI from day one. The audience grows *with* the experiment.
 
-## 8. Content pillars
+## 6. Content pillars
 
-1. **Build in public** — coding sessions, AI projects, desk setups
-2. **Discipline** — gym, morning routine, capoeira
-3. **São Paulo life** — streets, cafés, skyline, food
-4. **Tech, explained simply** — AI news in plain words
-5. **Motivation, Brazilian style** — real talk, no guru nonsense
+1. **Comedy skits** — Bia vs. everyday situations, chaotic energy
+2. **Tech, via dumb questions** — she asks it wrong, the video answers it
+   right (48-second full reveal)
+3. **São Paulo glam life** — nights out, cafés, rooftop golden hour
+4. **Lifestyle** — beauty, outfits, "get ready with me" chaos
 
-## 9. Generation consistency rules
+## 7. Generation consistency rules
 
-1. Same face reference image in every generation (Flux Kontext / IP-Adapter
-   / face-swap — never prompt-only).
-2. Same tattoo description, word for word (Section 2).
-3. Same 4-color palette in wardrobe and backgrounds.
-4. Camera: eye level or slight low angle (confidence), 85mm portrait feel.
-5. Lighting: soft daylight or cyan rim light. No harsh horror lighting.
-6. Hands visible in close-ups. Check fingers before posting.
-7. If the face drifts, go back to the reference — never "fix it in post".
+1. Same face reference image in every generation (face-swap / IP-Adapter —
+   never prompt-only).
+2. Same glam palette in wardrobe and backgrounds.
+3. Camera: eye level, 85mm portrait feel. She looks AT the camera.
+4. Lighting: golden hour or soft glam studio. No harsh horror lighting.
+5. Sexy but IG-safe: if you hesitate, it's too far — pull back.
+6. If the face drifts, go back to the reference — never "fix it in post".
 
-## 10. Trust mechanics (why people will believe in him)
+## 8. Trust mechanics (why people will believe in her)
 
-- Shows the work: code, process, failures, not just wins.
-- Admits mistakes publicly ("errei feio nesse deploy, aprendi isso").
+- Asks the questions everyone else is afraid to ask — instant relatability.
+- Shows the whole answer: 48-second full reveal, nothing gated.
+- Admits being wrong loudly and publicly ("gente, eu falei besteira").
 - Discloses AI identity upfront — zero deception, ever.
 - Replies to comments like a person. Remembers followers' names.
-- Never sells anything he would not use himself.

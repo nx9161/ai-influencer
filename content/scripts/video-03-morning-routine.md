@@ -1,41 +1,43 @@
-# Video 3 — "6AM"
+# Video 3 — "My 6AM routine (I snoozed 4 times)"
 
-Pillar: Discipline | Format: POV montage, text overlays | 48s
+Pillar: Lifestyle comedy | Format: POV montage, text overlays | 48s
 
 ## Script
 
 **[0:00–0:03] HOOK** (dark screen, alarm sound)
-"6AM. Nobody's watching. Everybody feels the result."
+"My 6AM routine. I snoozed four times, but the routine is real, gente."
 
-**[0:03–0:12] WAKE** (POV shots: water glass, shower, phone face-down)
-"Water. Cold shower. No phone for the first hour — the algorithm can wait."
+**[0:03–0:12] WAKE** (POV shots: alarm, water, phone face-down)
+"Water. Cold shower — I screamed, not gonna lie. No phone for the first hour.
+The algorithm can wait, my skin cannot."
 
-**[0:12–0:24] TRAIN** (gym shots — batch 01 gym image + new generations)
-"Gym. Same program, same time, six days a week. Motivation is a mood.
-Discipline is a schedule."
+**[0:12–0:24] TRAIN** (gym shots, comedy struggle)
+"Gym. Same time, six days a week. Motivation is a mood, disciplina é
+disciplina. Yes, those weights are light. No, I won't be taking questions."
 
-**[0:24–0:36] BUILD** (desk shots: code on screen, coffee)
-"Then I build. Two hours, one problem, zero distractions. Ship something
-small every day."
+**[0:24–0:36] GLAM** (get-ready montage: makeup, outfit)
+"Then I get cute. One hour, one face, zero regrets. Looking good is also
+discipline, don't argue with me."
 
 **[0:36–0:48] CLOSE** (face, golden light)
-"That's the whole routine. Nothing secret, nothing for sale. Discipline is
-the algorithm. Confia no processo."
+"That's the whole routine. Nothing secret, nothing for sale. Discipline looks
+good on me. Ai, gente..."
 
 ## On-screen text
-"6:00 — water" / "6:30 — train" / "8:00 — build" / "Discipline is the algorithm"
+"6:00 — snooze x4" / "6:30 — train (light weights)" / "8:00 — glam" /
+"Discipline looks good on me"
 
 ## Caption
-"My full morning routine in 48 seconds. No secrets, no course. Just the
-routine. What's the non-negotiable in yours? ☀️"
+"My full morning routine in 48 seconds. I snoozed four times and I'm still
+more disciplined than your ex. What's the non-negotiable in yours? ☀️"
 
 ## Hashtags
-#discipline #gymlife #routine #motivation
+#routine #comedy #gymgirl #lifestyle
 
 ## CTA
 Question in caption — "What's the non-negotiable in yours?"
 
 ## Asset notes
-Needs ~6–8 montage shots. Batch 01 gym image is reusable. Still to
-generate: wake-up POV, cold shower, desk/code close-up, golden-hour face.
-Face-lock every generation to the master reference.
+Needs ~6–8 montage shots: alarm POV, cold shower scream, gym comedy, makeup
+mirror, outfit twirl, golden-hour face. Face-lock every generation to the
+master reference once picked.
