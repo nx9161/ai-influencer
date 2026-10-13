@@ -25,9 +25,11 @@ Copy-paste this into every generation prompt, word for word:
 
 > 26-year-old Brazilian man, white with light tan skin, short dark-brown
 > textured hair with faded sides, light stubble, hazel-green eyes, confident
-> warm expression, muscular athletic build, broad shoulders. BOTH HANDS fully
-> tattooed: black circuit-board lines and geometric patterns running from the
-> knuckles across the backs of the hands, extending up the forearms.
+> warm expression, muscular athletic build, broad shoulders. Heavily tattooed
+> in black ink: circuit-board lines and geometric patterns covering BOTH HANDS
+> (knuckles across the backs of the hands, up the forearms), wrapping BOTH
+> SIDES OF THE NECK, and sharp geometric line work tracing the JAWLINE on both
+> sides, symmetric.
 
 **Art style lock (append to every prompt):**
 `ultra photorealistic photograph, 85mm portrait lens, shallow depth of field,
@@ -68,11 +70,13 @@ overload, busy patterns that fight the tattoos.
 
 ## 5. The tattoos (continuity anchor)
 
-The tattoos are the most recognizable feature. Describe them identically
-every time: black ink, circuit-board traces + geometric shapes, knuckles to
-forearms, both hands. In close-up content, hands are always visible and in
-frame. If a generation drops or warps the tattoos, regenerate — never post
-a tattoo-less Rafa.
+The tattoos are the most recognizable feature and the badass signature.
+Describe them identically every time: black ink, circuit-board traces +
+geometric shapes — full hand-and-forearm sleeves on both arms, wrapping both
+sides of the neck, and sharp geometric line work along the jawline on both
+sides, symmetric. In close-up content, hands are always visible and in frame.
+If a generation drops or warps the tattoos, regenerate — never post a
+tattoo-less Rafa.
 
 ## 6. Voice and personality
 

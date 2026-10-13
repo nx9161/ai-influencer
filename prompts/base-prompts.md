@@ -8,9 +8,11 @@ Scene block changes per post. Never edit the character block.
 ```
 26-year-old Brazilian man, white with light tan skin, short dark-brown
 textured hair with faded sides, light stubble, hazel-green eyes, confident
-warm expression, muscular athletic build, broad shoulders. BOTH HANDS fully
-tattooed: black circuit-board lines and geometric patterns running from the
-knuckles across the backs of the hands, extending up the forearms.
+warm expression, muscular athletic build, broad shoulders. Heavily tattooed
+in black ink: circuit-board lines and geometric patterns covering BOTH HANDS
+(knuckles across the backs of the hands, up the forearms), wrapping BOTH
+SIDES OF THE NECK, and sharp geometric line work tracing the JAWLINE on both
+sides, symmetric.
 ```
 
 ## STYLE (fixed — copy verbatim)
