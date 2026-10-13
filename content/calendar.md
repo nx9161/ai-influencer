@@ -24,6 +24,8 @@ not established best times. Lock in the winner once the data speaks.
 ## Caption rules (Rafa's voice)
 
 - Short. Warm. Direct. One idea per caption.
+- Every value reel ends with a one-word comment CTA
+  ("Comment BUILD and I'll DM you the setup") — see hook-playbook.md.
 - End with a question when you want comments.
 - Portuguese flavor words are fine; keep it readable for English followers.
 - Always honest: wins AND failures.

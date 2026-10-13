@@ -16,6 +16,38 @@ steal the structure, keep Rafa's voice.
 - **Takeaway:** the character-sheet method is the winning formula. Rafa's
   bible already does this. We are aligned with what works.
 
+## The comment-CTA growth loop (observed across 6 reference reels)
+
+The dominant viral mechanic, confirmed by multiple accounts:
+
+| Account | CTA | Result |
+|---|---|---|
+| @sebastianhardy_ | Comment LARP → full AI-influencer setup | AI niche proof |
+| @ollysung | Comment CONTENT → system + setup guide | **10,280 comments** on 7,259 likes — comments beat likes |
+| @kolton.hustles | Comment ADS → 50 prompts + 1 week free | 166 comments |
+| @the.jeffery | Comment LEARN → $5-10k/mo training | 11,931 likes |
+| @aaliyan_ecom | DM ECOM → tips | Small account, same mechanic |
+
+How it works: one-word comment CTA → keyword triggers DM with the lead
+magnet → comments boost the algorithm AND open a DM conversation. Every
+value reel Rafa posts should end with one: "Comment BUILD and I'll DM you
+my AI setup checklist." (Build the checklist as the first lead magnet.)
+
+## Formats that win for Rafa's niche
+
+1. **Screen-recording tool demos** (@gittrend.io, @ollysung): demo an AI
+   tool over a screen recording with voiceover. No new face generation
+   needed — maximum output per generation. Perfect for "tech explained
+   simply."
+2. **The decode** (@ollysung decoding 1,755 videos across 99 creators):
+   data-driven breakdowns — "I analyzed 100 viral AI videos, here's the
+   one format that wins." Made for Rafa's builder audience.
+3. **Proof overlays** (@growthfuel.abhishek, 247K likes): on-screen
+   metrics climbing while talking. Repeat the core line with escalating
+   energy.
+4. **Talking head + screen share** (@sebastianhardy_): presenter plus
+   screen recordings, proof first, twist second.
+
 ## Rafa's hook formulas
 
 1. **Proof first:** "X result in Y time. Here's exactly how."
