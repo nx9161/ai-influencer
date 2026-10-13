@@ -16,16 +16,16 @@ knuckles across the backs of the hands, extending up the forearms.
 ## STYLE (fixed — copy verbatim)
 
 ```
-semi-realistic anime style, clean linework, soft cel shading, detailed hands,
-high-end anime key visual, eye-level camera, soft daylight with subtle cyan
-rim light
+ultra photorealistic photograph, 85mm portrait lens, shallow depth of field,
+natural skin texture, detailed hands with anatomically correct fingers,
+eye-level camera, soft daylight with subtle cyan rim light
 ```
 
 ## NEGATIVE (fixed)
 
 ```
-photorealistic, 3d render, chibi, deformed hands, extra fingers, blurry,
-watermark, text, logo, all-black outfit
+anime, cartoon, illustration, 3d render, chibi, deformed hands, extra fingers,
+blurry, watermark, text, logo, all-black outfit
 ```
 
 ## SCENES (pick one, keep palette: navy / white / cyan / gold)

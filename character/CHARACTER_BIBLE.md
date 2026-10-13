@@ -30,8 +30,12 @@ Copy-paste this into every generation prompt, word for word:
 > knuckles across the backs of the hands, extending up the forearms.
 
 **Art style lock (append to every prompt):**
-`semi-realistic anime style, clean linework, soft cel shading, detailed hands,
-high-end anime key visual`
+`ultra photorealistic photograph, 85mm portrait lens, shallow depth of field,
+natural skin texture, detailed hands with anatomically correct fingers`
+
+> Rafa is photorealistic, not anime. He must be indistinguishable from a real
+> person's photograph. If a generation looks illustrated, painterly, or
+> 3D-rendered, regenerate — never post it.
 
 **Negative prompt (always):**
 `photorealistic, 3d render, chibi, deformed hands, extra fingers, blurry,
