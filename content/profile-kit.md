@@ -23,8 +23,7 @@ São Paulo → the world
 
 ## Profile picture
 
-TBD — 1080x1080 crop from the picked master face (Option A or B).
-[YOU] upload it once generated.
+LIVE — `assets/face/bia-profile-1080.jpg` (1080x1080, set via API 2026-10-13).
 
 ## Account settings
 
@@ -55,7 +54,9 @@ TBD — 1080x1080 crop from the picked master face (Option A or B).
 
 ## Launch checklist
 
-- [ ] [YOU] Pick Bia's face: Option A (playful) or Option B (sultry)
+- [x] Bia's face LOCKED: Option A (playful golden-hour) — Flow character built
+- [x] Profile pic + bio set via API (2026-10-13)
 - [ ] [YOU] Rename @internationalf1guy → @bia.duarte in the IG app
-- [ ] [YOU] Upload the profile pic, paste the bio, set category
+  (Edit profile → Username; display name "Bia Duarte 🇧🇷" too — API can't change these)
+- [ ] [YOU] Set account category: Digital creator
 - [ ] Tell the assistant the account is live → first content batch generates

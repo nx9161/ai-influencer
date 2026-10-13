@@ -6,49 +6,52 @@ Scene block changes per post. Never edit the character block.
 ## CHARACTER (fixed — copy verbatim)
 
 ```
-26-year-old Brazilian man, white with light tan skin, short dark-brown
-textured hair with faded sides, light stubble, hazel-green eyes, confident
-warm expression, muscular athletic build, broad shoulders. Heavily tattooed
-in black ink: circuit-board lines and geometric patterns covering BOTH HANDS
-(knuckles across the backs of the hands, up the forearms), wrapping BOTH
-SIDES OF THE NECK, and sharp geometric line work tracing the JAWLINE on both
-sides, symmetric.
+23-year-old Brazilian woman, warm tan skin, long dark wavy hair,
+glamorous makeup, full lips, playful mischievous expression with a hint
+of a smile, curvy glamorous build. Freckles across the nose, small moles
+on the cheek — keep them, they are identity markers.
 ```
 
 ## STYLE (fixed — copy verbatim)
 
 ```
 ultra photorealistic photograph, 85mm portrait lens, shallow depth of field,
-natural skin texture, detailed hands with anatomically correct fingers,
-eye-level camera, soft daylight with subtle cyan rim light
+natural skin texture, anatomically correct hands with detailed fingers,
+eye-level camera, golden-hour or soft glam studio lighting
 ```
 
 ## NEGATIVE (fixed)
 
 ```
 anime, cartoon, illustration, 3d render, chibi, deformed hands, extra fingers,
-blurry, watermark, text, logo, all-black outfit
+blurry, watermark, text, logo, explicit nudity
 ```
 
-## SCENES (pick one, keep palette: navy / white / cyan / gold)
+## SCENES (pick one, keep palette: champagne gold / white / soft rose / black)
 
-**Coding:** `wearing navy hoodie with sleeves pushed up showing tattooed hands,
-typing on laptop at a São Paulo café, morning light, white coffee cup`
+**Café:** `beige knit top, laptop with code on screen, São Paulo café table,
+laughing mid-sentence, warm morning light, coffee cup`
 
-**Gym:** `navy tank top, doing pull-ups in a modern gym, dramatic side light,
-confident grin, tattooed hands gripping the bar`
+**Rooftop:** `champagne-gold slip dress, São Paulo skyline at golden hour,
+wind in hair, confident smile`
 
-**Street:** `navy bomber jacket over white tee, cyan sneakers, walking down
-Avenida Paulista at golden hour, city bokeh behind`
+**Night out:** `black mini dress, city neon bokeh, confident walk toward
+camera, night`
 
-**Beach:** `white linen shirt with rolled sleeves, gold watch, Copacabana
-boardwalk, ocean breeze, relaxed smile`
+**Get ready:** `silk robe, makeup mirror with warm bulbs, rose tones,
+playful "ai, gente" expression`
 
-**Talking head (video):** use your best photo as the input frame. HeyGen or
-Hedra, script from content/calendar.md, voice: warm Brazilian male, 26.
+**Gym (comedy):** `matching workout set, struggling adorably with light
+dumbbells, gym, bright daylight`
 
-## Face-swap / reference rule
+**Talking head (video):** use the locked face reference as the input frame.
+Flow (Bia's character) or P-Video with the ElevenLabs voiceover.
+Voice: Adriane — Brazilian female, warm, friendly.
 
-Every new image: attach the approved base face from `assets/face/` as the
-reference (Flux Kontext / IP-Adapter), THEN apply scene. Prompt-only
-generation drifts — reference-locked generation stays Rafa.
+## Face reference rule
+
+Every new image: attach the locked master face
+(`assets/face/media-generation-bia-face-option-a-0-648bdd73-e16b-405d-a268-524a361428d0.webp`)
+as the reference, THEN apply scene. Prompt-only generation drifts —
+reference-locked generation stays Bia. The 360 sheets in `assets/face/`
+cover side and back angles.

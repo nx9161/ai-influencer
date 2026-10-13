@@ -13,11 +13,12 @@
 | Full name | Beatriz Duarte |
 | Nickname | Bia |
 | Handle | @bia.duarte (backups: @biaduarte.ai, @bia.duarte.oficial) |
-| Profile pic | TBD after face pick (1080x1080 from master reference) |
+| Profile pic | LIVE — `assets/face/bia-profile-1080.jpg` (set via API 2026-10-13) |
 
-**Master reference face: PENDING — Naman picks Option A or B (2026-10-13):**
-- Option A: `assets/face/media-generation-bia-face-option-a-0-648bdd73-e16b-405d-a268-524a361428d0.webp` (golden hour, playful)
-- Option B: `assets/face/media-generation-bia-face-option-b-0-6be44204-a23c-4e0c-bb5c-59e506e99250.webp` (studio, sultry)
+**Master reference face: LOCKED 2026-10-13 — Option A (golden hour, playful):**
+`assets/face/media-generation-bia-face-option-a-0-648bdd73-e16b-405d-a268-524a361428d0.webp`
+Option B archived. 360 face + body sheets generated from A and used for
+Bia's Flow character.
 
 Every future generation uses the picked file as the face reference. Nothing
 ships with a different face.

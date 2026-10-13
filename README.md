@@ -13,13 +13,20 @@ ai-influencer/
 ├── prompts/
 │   └── base-prompts.md          ← copy-paste generation prompts
 ├── assets/
-│   ├── face/                    ← base face + approved reference images
+│   ├── face/                    ← locked face + 360 sheets
 │   ├── photos/                  ← generated post images (by batch/date)
-│   └── videos/                  ← generated reels
+│   ├── audio/                   ← voiceovers (ElevenLabs)
+│   └── videos/                  ← generated reels (by video)
 ├── content/
-│   └── calendar.md              ← posting calendar + caption drafts
+│   ├── calendar.md              ← posting calendar + caption drafts
+│   ├── hook-playbook.md         ← viral formats that work
+│   ├── profile-kit.md           ← bio, handle, highlights, 9-grid
+│   ├── scripts/                 ← reel scripts (48s format)
+│   ├── agent-instructions/      ← paste-ready Flow director briefs
+│   └── lead-magnets/            ← comment-CTA assets (Bia's voice)
 ├── docs/
-│   └── setup-accounts.md        ← everything to connect / sign up for
+│   ├── setup-accounts.md        ← everything to connect / sign up for
+│   └── workflows.md             ← continuity, fact-check, publishing gates
 └── scripts/                     ← automation later (generation, scheduling)
 ```
 
@@ -35,5 +42,6 @@ ai-influencer/
 ## Rules
 
 - The bible wins every argument.
-- Nothing posts without the tattoo check and the palette check.
-- Rafa is openly virtual, always.
+- Nothing posts without the face-lock check, the glam-palette check, and
+  the IG-safe check (sexy, never explicit).
+- Bia is openly virtual, always.

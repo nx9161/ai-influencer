@@ -1,7 +1,7 @@
 # Hook playbook
 
 Learned from high-performing AI-influencer content. Study the format,
-steal the structure, keep Rafa's voice.
+steal the structure, keep Bia's voice.
 
 ## Reference: @sebastianhardy_ reel (the one that started this project)
 
@@ -13,13 +13,13 @@ steal the structure, keep Rafa's voice.
   one-sentence video prompt, finished clip ready to post.
 - **CTA:** one word — "Comment LARP and I'll send you the full setup."
 - **Format:** talking head + screen recordings. Promotional but instructional.
-- **Takeaway:** the character-sheet method is the winning formula. Rafa's
+- **Takeaway:** the character-sheet method is the winning formula. Bia's
   bible already does this. We are aligned with what works.
 
-## Rafa's signature format: the 48-second full reveal (owner's call, 2026-10-13)
+## Bia's signature format: the 48-second full reveal (owner's call, 2026-10-13)
 
 The niche runs on gated value: "comment X and I'll DM you the setup" —
-they tease, they never show the whole thing. Rafa does the opposite:
+they tease, they never show the whole thing. Bia does the opposite:
 **the entire process, shown completely, in 48 seconds. No gating.**
 
 Structure:
@@ -33,7 +33,21 @@ comments", "follow for the next build"). Differentiation AND growth
 mechanic, not one or the other.
 
 Why it wins: in a niche full of engagement bait, radical transparency is
-the contrarian play — and it's exactly the "100% real talk" brand.
+the contrarian play — and it's exactly the "pergunta burra, resposta boa"
+brand.
+
+## Character-first comedy (abu.shalab / jean_philanthrope study, 2026-10-13)
+
+The pivot study's core lesson: recognizable behavior beats tutorials.
+- **Minimal captions:** 1–5 words + emoji. The video carries the content.
+- **Signature catchphrase every post:** "Gente, sério?!" — repetition is
+  the brand.
+- **Repost underperformers:** jean's 10–100x repost wins prove a second
+  run can explode. Nothing good dies after one post.
+- **Situational comedy:** Bia vs. everyday absurdity (crypto, morning
+  routine, tech news). Character reacts, audience relates.
+- **High variance is normal:** character accounts spike unpredictably.
+  Keep posting daily; the algorithm rewards the streak.
 
 ## The comment-CTA growth loop (observed across 6 reference reels)
 
@@ -43,36 +57,33 @@ The dominant viral mechanic, confirmed by multiple accounts:
 |---|---|---|
 | @sebastianhardy_ | Comment LARP → full AI-influencer setup | AI niche proof |
 | @ollysung | Comment CONTENT → system + setup guide | **10,280 comments** on 7,259 likes — comments beat likes |
-| @kolton.hustles | Comment ADS → 50 prompts + 1 week free | 166 comments |
-| @the.jeffery | Comment LEARN → $5-10k/mo training | 11,931 likes |
 | @aaliyan_ecom | DM ECOM → tips | Small account, same mechanic |
 
 How it works: one-word comment CTA → keyword triggers DM with the lead
 magnet → comments boost the algorithm AND open a DM conversation. Every
-value reel Rafa posts should end with one: "Comment BUILD and I'll DM you
-my AI setup checklist." (Build the checklist as the first lead magnet.)
+value reel Bia posts should end with one: "Comment BUILD and I'll DM you
+my AI setup checklist." (Checklist lives in content/lead-magnets/.)
 
-## Formats that win for Rafa's niche
+## Formats that win for Bia's niche
 
-1. **Screen-recording tool demos** (@gittrend.io, @ollysung): demo an AI
-   tool over a screen recording with voiceover. No new face generation
-   needed — maximum output per generation. Perfect for "tech explained
-   simply."
+1. **Talking head + screen share** (@sebastianhardy_): presenter plus
+   screen recordings, proof first, twist second. Bia's video 1 template.
 2. **The decode** (@ollysung decoding 1,755 videos across 99 creators):
    data-driven breakdowns — "I analyzed 100 viral AI videos, here's the
-   one format that wins." Made for Rafa's builder audience.
+   one format that wins." Made for Bia's curious audience.
 3. **Proof overlays** (@growthfuel.abhishek, 247K likes): on-screen
    metrics climbing while talking. Repeat the core line with escalating
    energy.
-4. **Talking head + screen share** (@sebastianhardy_): presenter plus
-   screen recordings, proof first, twist second.
+4. **Dumb-question explainers** (Bia's signature): "Pergunta burra, resposta
+   boa" — asks the question everyone's thinking, answers it completely
+   in 48 seconds.
 
-## Rafa's hook formulas
+## Bia's hook formulas
 
-1. **Proof first:** "X result in Y time. Here's exactly how."
-2. **Twist reveal:** "Sou 100% digital. E olha o que eu construí essa semana."
-3. **Myth vs reality:** "Everyone says [X]. Real talk: [Y]."
-4. **Build in public:** "Day N of building [thing]. Today I broke [thing]."
+1. **Dumb question:** "Gente, sério?! Treze robôs rodam essa conta?!"
+2. **Twist reveal:** "Sou 100% virtual. E nem assim vocês me cancelam."
+3. **Myth vs reality:** "Todo mundo diz [X]. Real talk: [Y]."
+4. **Comedy fail:** "Tentei [X]. Deu errado. Aprendi [Y]."
 
 ## CTA mechanics
 
@@ -83,12 +94,13 @@ my AI setup checklist." (Build the checklist as the first lead magnet.)
 
 ## Hashtag sets (rotate, max 5)
 
-- Tech: #ai #buildinpublic #tech #softwareengineer #aiinfluencer
-- Lifestyle: #saopaulo #gymlife #discipline #brasil
+- Comedy: #comedy #humorbrasil #aigirl #skit #funny
+- Tech: #ai #buildinpublic #tech #aiinfluencer
+- Lifestyle: #saopaulo #sp #brasil #ootd
 - Never: generic spam tags (#love #instagood #followme).
 
 ## Format notes
 
 - Reels: hook in the first 2 seconds, captions carry the detail.
-- Talking-head + screen-recording works for tech explainers.
-- Batch 01 proved the face holds across scenes — keep the reference lock.
+- Video 01's Flow shots proved the face holds across scenes — keep the
+  reference lock.

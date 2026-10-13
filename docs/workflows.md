@@ -1,12 +1,13 @@
-# Rafa workflows
+# Bia workflows
 
 Standing operating procedures. Run these every time; no exceptions.
 
 ## 1. Continuity check (before anything posts)
 
-- Same face as the master reference (`assets/face/`)?
-- Tattoos present and correct: hands, forearms, neck, jawline?
-- Palette check: navy / white / cyan / gold only?
+- Same face as the locked master reference (`assets/face/` Option A)?
+- Glam palette check: champagne gold / white / soft rose / black only?
+- IG-safe check: sexy and suggestive, never explicit? If you hesitate,
+  it's too far — pull back.
 - Fingers anatomically correct, hands fully in frame on close-ups?
 - Photorealistic — not illustrated, painterly, or 3D-rendered?
 Any no → regenerate. Never "fix it in post."
@@ -15,8 +16,8 @@ Any no → regenerate. Never "fix it in post."
 
 - Every technical claim in a caption or reel script gets verified against
   a current source before publishing.
-- If it can't be verified, the claim doesn't post. Rafa would rather say
-  "não sei ainda, vou descobrir" than be wrong.
+- If it can't be verified, the claim doesn't post. Bia would rather say
+  "gente, não sei ainda, vou descobrir" than be wrong.
 - AI news: check the date. Never present old news as new.
 
 ## 3. Posting-time experiment

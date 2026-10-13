@@ -1,4 +1,7 @@
-# Lead magnet: "Comment BUILD" checklist
+# Lead magnet: "Comment BUILD" checklist (Rafa's voice — ARCHIVED)
+
+> DEPRECATED 2026-10-13: Rafa retired. Use
+> `content/lead-magnets/bia-build-checklist.md` instead. Kept as archive.
 
 What gets DM'd to every follower who comments **BUILD**. Written in
 Rafa's voice — send as-is, or paste in pieces.
