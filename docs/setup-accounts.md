@@ -26,6 +26,7 @@ and use Notion (connected).
 | HeyGen | Talking-head reels | 3 free videos/month |
 | Hedra | Lip-sync + voice | Free tier |
 | CapCut | Editing, captions, no watermark | Free app |
+| Arcads | One-sentence-prompt → finished AI video (via the sebastianhardy_ reel) | Check current pricing |
 | Instagram | Rafa's new account — use a fresh email | Free |
 
 Start with Leonardo + CapCut + the Instagram account. Add the rest as you
