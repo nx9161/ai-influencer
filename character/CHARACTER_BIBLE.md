@@ -9,7 +9,13 @@
 |---|---|
 | Full name | Rafael Duarte |
 | Nickname | Rafa |
-| Handle (pick one) | @rafa.duarte / @rafaduarte.ai / @duartebuilds |
+| Handle | @rafa.duarte (backups: @rafaduarte.ai, @duarte.builds) |
+| Profile pic | `assets/face/rafa-profile-pic.png` (1080x1080) |
+
+**Master reference face (locked 2026-10-13, Naman's pick):**
+`assets/face/media-generation-rafa-face-tatted-b-0-ceef6518-1819-4163-878c-6021c547686a.webp`
+Every future generation uses this file as the face reference. Nothing ships
+with a different face.
 | Age | 26 |
 | From | Curitiba, Paraná, Brazil |
 | Lives | São Paulo (Vila Madalena) |
