@@ -16,6 +16,25 @@ steal the structure, keep Rafa's voice.
 - **Takeaway:** the character-sheet method is the winning formula. Rafa's
   bible already does this. We are aligned with what works.
 
+## Rafa's signature format: the 48-second full reveal (owner's call, 2026-10-13)
+
+The niche runs on gated value: "comment X and I'll DM you the setup" —
+they tease, they never show the whole thing. Rafa does the opposite:
+**the entire process, shown completely, in 48 seconds. No gating.**
+
+Structure:
+- **0–3s:** the hook — the result, the proof.
+- **3–40s:** the whole thing. Screen recording, every step, nothing
+  skipped. If it can't fit, it's two videos, not a teaser.
+- **40–48s:** the outcome + one soft CTA.
+
+The CTA never gates knowledge — it offers assets ("checklist in the
+comments", "follow for the next build"). Differentiation AND growth
+mechanic, not one or the other.
+
+Why it wins: in a niche full of engagement bait, radical transparency is
+the contrarian play — and it's exactly the "100% real talk" brand.
+
 ## The comment-CTA growth loop (observed across 6 reference reels)
 
 The dominant viral mechanic, confirmed by multiple accounts:
