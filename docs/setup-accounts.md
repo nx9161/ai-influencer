@@ -30,3 +30,13 @@ and use Notion (connected).
 
 Start with Leonardo + CapCut + the Instagram account. Add the rest as you
 scale. Nothing here needs a credit card to begin.
+
+## API limits (read before you ask the assistant)
+
+- The assistant posts, reads comments, and checks insights through the
+  Instagram API on the connected account. Bio and profile picture are
+  settable; **the username can only be changed in the Instagram app**
+  (Edit profile → Username).
+- Scheduling runs through the assistant (direct API + scheduled jobs) —
+  no separate scheduler needed. Postiz or similar tools are optional and
+  not currently used; the direct connection already covers posting.

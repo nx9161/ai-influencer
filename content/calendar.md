@@ -14,6 +14,13 @@ Post 1x/day. Reels Tue / Thu / Sat. Stories daily (repost + polls).
 | Sat | Reel | Motivation | "Confia no processo. Ep. 1" |
 | Sun | Carousel | Week recap | "Essa semana em 5 fotos 👇" |
 
+## Posting-time experiment
+
+Nobody knows Rafa's best hour yet — no account data exists. Until it does,
+rotate comparable posts through **9am, 1pm, and 7pm Eastern** and compare
+saves, shares, reach, and follows over several weeks. These are test windows,
+not established best times. Lock in the winner once the data speaks.
+
 ## Caption rules (Rafa's voice)
 
 - Short. Warm. Direct. One idea per caption.

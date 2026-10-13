@@ -46,8 +46,8 @@ natural skin texture, detailed hands with anatomically correct fingers`
 > 3D-rendered, regenerate — never post it.
 
 **Negative prompt (always):**
-`photorealistic, 3d render, chibi, deformed hands, extra fingers, blurry,
-watermark, text, logo`
+`anime, cartoon, illustration, 3d render, chibi, deformed hands, extra
+fingers, blurry, watermark, text, logo, all-black outfit`
 
 ## 3. The trust palette (wardrobe colors)
 
