@@ -1,4 +1,4 @@
-# AI Influencer Project — Rafa Duarte
+# AI Influencer Project — Bia Duarte
 
 One repo for the whole virtual creator: the character, the prompts, the
 assets, the content plan, and the setup docs. One persona = one repo.
