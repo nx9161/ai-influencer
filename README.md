@@ -1,5 +1,8 @@
 # AI Influencer Project — Bia Duarte
 
+> **Status:** retired — the tech-format influencer content has been retired in favor of the personality-driven approach. Kept for reference; do not present as current.
+
+
 One repo for the whole virtual creator: the character, the prompts, the
 assets, the content plan, and the setup docs. One persona = one repo.
 
@@ -45,3 +48,7 @@ ai-influencer/
 - Nothing posts without the face-lock check, the glam-palette check, and
   the IG-safe check (sexy, never explicit).
 - Bia is openly virtual, always.
+
+---
+
+Built by **Naman Parmar** ([nx9161](https://github.com/nx9161)).
